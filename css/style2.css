@@ -12,11 +12,10 @@ body {
     min-height: 100vh;
     position: relative;
     overflow: hidden;
-    padding-top: 50px;
-    padding-left: 140px;
+    padding-top: 30px;
+    padding-left: 70px;
 }
 
-/* Decoraciones del fondo */
 body::before,
 body::after {
     content: "";
